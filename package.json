@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "browserify": "^15.2.0",
-    "simple-markdown": "^0.3.2",
+    "simple-markdown": "^0.4.4",
     "turndown": "^4.0.1"
   }
 }
